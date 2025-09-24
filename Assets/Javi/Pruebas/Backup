@@ -1,0 +1,144 @@
+using UnityEngine;
+using UnityEngine.AI;
+
+public class EnemyAINav : MonoBehaviour
+{
+    public enum EnemyState { PATROLLING, CHASING }
+
+    [Header("State Machine")]
+    public EnemyState currentState;
+    public float detectionRange = 10f;
+    public float loseAggroRange = 15f;
+
+    [Header("Movement")]
+    public float patrolRadius = 15f;
+    private NavMeshAgent agent;
+    private Transform playerTransform;
+    private Vector3 spawnPosition;
+    private Vector3 patrolTarget;
+
+    [Header("Crouch")]
+    private ThirdPersonController playerMovementScript;
+    public float detectionRangeCrouchedModifier = 0.5f;
+
+    [Header("Sanity Drain")]
+    public float sanityDrainRange = 5f;
+    public float sanityDrainRate = 5f;
+
+    void Start()
+    {
+        agent = GetComponent<NavMeshAgent>();
+        spawnPosition = transform.position;
+
+        GameObject player = GameObject.FindWithTag("Player");
+        if (player != null)
+        {
+            playerTransform = player.transform;
+            playerMovementScript = player.GetComponent<ThirdPersonController>();
+        }
+
+        ChangeState(EnemyState.PATROLLING);
+        SetNewPatrolTarget();
+    }
+
+    void Update()
+    {
+        if (playerTransform == null) return;  
+
+        // Detección dinámica
+        float effectiveDetectionRange = detectionRange;
+        if (playerMovementScript != null && playerMovementScript.IsCrouching)
+        {
+            effectiveDetectionRange *= detectionRangeCrouchedModifier;
+        }
+
+        float distanceToPlayer = Vector3.Distance(transform.position, playerTransform.position);
+        bool hasLineOfSight = CheckLineOfSight(effectiveDetectionRange);
+
+        switch (currentState)
+        {
+            case EnemyState.PATROLLING:
+                if (hasLineOfSight || distanceToPlayer <= effectiveDetectionRange)
+                {
+                    ChangeState(EnemyState.CHASING);
+                }
+                else if (!agent.pathPending && agent.remainingDistance < 0.5f)
+                {
+                    SetNewPatrolTarget();
+                }
+                break;
+
+            case EnemyState.CHASING:
+                agent.SetDestination(playerTransform.position);
+                if (!hasLineOfSight && distanceToPlayer > loseAggroRange)
+                {
+                    ChangeState(EnemyState.PATROLLING);
+                    SetNewPatrolTarget();
+                }
+                break;
+        }
+
+        DrainSanityIfClose();
+    }
+
+    void ChangeState(EnemyState newState)
+    {
+        currentState = newState;
+    }
+
+    void SetNewPatrolTarget()
+    {
+        Vector3 randomDir = Random.insideUnitSphere * patrolRadius;
+        randomDir += spawnPosition;
+        NavMeshHit hit;
+        if (NavMesh.SamplePosition(randomDir, out hit, patrolRadius, NavMesh.AllAreas))
+        {
+            patrolTarget = hit.position;
+            agent.SetDestination(patrolTarget);
+        }
+    }
+
+    bool CheckLineOfSight(float range)
+    {
+        Vector3 directionToPlayer = (playerTransform.position - transform.position).normalized;
+        Ray ray = new Ray(transform.position + Vector3.up * 1.5f, directionToPlayer);
+        RaycastHit hit;
+
+        if (Physics.Raycast(ray, out hit, range))
+        {
+            if (hit.collider.CompareTag("Player"))
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    void DrainSanityIfClose()
+    {
+        if (currentState == EnemyState.CHASING /*&& SanityManager.Instance != null*/)
+        {
+            float distance = Vector3.Distance(transform.position, playerTransform.position);
+            if (distance <= sanityDrainRange)
+            {
+                // SanityManager.Instance.DrainSanity(sanityDrainRate * Time.deltaTime);
+            }
+        }
+    }
+
+
+    // Gizmos para debug
+    void OnDrawGizmosSelected()
+    {
+        if (transform == null) return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, detectionRange);
+
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, loseAggroRange);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, sanityDrainRange);
+    }
+}

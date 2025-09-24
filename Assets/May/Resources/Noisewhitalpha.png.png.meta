@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: c25fe968cfb5bcd42b0ae88ae57f62f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7806040425389995836
+    second: Noisewhitalpha.png_0
+  - first:
+      213: -6867244746650101842
+    second: Noisewhitalpha.png_1
+  - first:
+      213: 7588841309660818173
+    second: Noisewhitalpha.png_2
+  - first:
+      213: 7486829376916923505
+    second: Noisewhitalpha.png_3
+  - first:
+      213: 3548337819166354164
+    second: Noisewhitalpha.png_4
+  - first:
+      213: 64193515590916031
+    second: Noisewhitalpha.png_5
+  - first:
+      213: 4134310137219752070
+    second: Noisewhitalpha.png_6
+  - first:
+      213: -7471017454681687810
+    second: Noisewhitalpha.png_7
+  - first:
+      213: 3251170977481615526
+    second: Noisewhitalpha.png_8
+  - first:
+      213: -1473048355700870039
+    second: Noisewhitalpha.png_9
+  - first:
+      213: -7859349096282127504
+    second: Noisewhitalpha.png_10
+  - first:
+      213: 1658049730158500460
+    second: Noisewhitalpha.png_11
+  - first:
+      213: -9183214843078381805
+    second: Noisewhitalpha.png_12
+  - first:
+      213: -6532780839916104164
+    second: Noisewhitalpha.png_13
+  - first:
+      213: 1331268075572057969
+    second: Noisewhitalpha.png_14
+  - first:
+      213: 5556168535053991628
+    second: Noisewhitalpha.png_15
+  - first:
+      213: 4970529777332802333
+    second: Noisewhitalpha.png_16
+  - first:
+      213: -6115836636763683116
+    second: Noisewhitalpha.png_17
+  - first:
+      213: 318518726593080115
+    second: Noisewhitalpha.png_18
+  - first:
+      213: 5414132511792551374
+    second: Noisewhitalpha.png_19
+  - first:
+      213: -3129771242210948164
+    second: Noisewhitalpha.png_20
+  - first:
+      213: 4360958126876752764
+    second: Noisewhitalpha.png_21
+  - first:
+      213: -3599985949428468603
+    second: Noisewhitalpha.png_22
+  - first:
+      213: 6123295348744816053
+    second: Noisewhitalpha.png_23
+  - first:
+      213: -6497552682044500034
+    second: Noisewhitalpha.png_24
+  - first:
+      213: 5347357412836602869
+    second: Noisewhitalpha.png_25
+  - first:
+      213: -5748090756130593575
+    second: Noisewhitalpha.png_26
+  - first:
+      213: -4143680248005261587
+    second: Noisewhitalpha.png_27
+  - first:
+      213: 5906584062437996763
+    second: Noisewhitalpha.png_28
+  - first:
+      213: 2008729600582774218
+    second: Noisewhitalpha.png_29
+  - first:
+      213: 4940779338722784908
+    second: Noisewhitalpha.png_30
+  - first:
+      213: 3548178436688585147
+    second: Noisewhitalpha.png_31
+  - first:
+      213: -4301584452458724544
+    second: Noisewhitalpha.png_32
+  - first:
+      213: 4520651140680062140
+    second: Noisewhitalpha.png_33
+  - first:
+      213: -5833683504707408172
+    second: Noisewhitalpha.png_34
+  - first:
+      213: 1573418574855246876
+    second: Noisewhitalpha.png_35
+  - first:
+      213: 4620292682590000445
+    second: Noisewhitalpha.png_36
+  - first:
+      213: -3083729932828838205
+    second: Noisewhitalpha.png_37
+  - first:
+      213: -4689779322753747965
+    second: Noisewhitalpha.png_38
+  - first:
+      213: 1014726587959566871
+    second: Noisewhitalpha.png_39
+  - first:
+      213: -5221182301125197802
+    second: Noisewhitalpha.png_40
+  - first:
+      213: 3597738454108305360
+    second: Noisewhitalpha.png_41
+  - first:
+      213: -2757407769836425326
+    second: Noisewhitalpha.png_42
+  - first:
+      213: 393391412137720128
+    second: Noisewhitalpha.png_43
+  - first:
+      213: 6370118713593308804
+    second: Noisewhitalpha.png_44
+  - first:
+      213: -3097132465896361870
+    second: Noisewhitalpha.png_45
+  - first:
+      213: -361767369334891573
+    second: Noisewhitalpha.png_46
+  - first:
+      213: -3618971227618300617
+    second: Noisewhitalpha.png_47
+  - first:
+      213: 4642849715608807255
+    second: Noisewhitalpha.png_48
+  - first:
+      213: 2736373293682764646
+    second: Noisewhitalpha.png_49
+  - first:
+      213: -8200262101866297688
+    second: Noisewhitalpha.png_50
+  - first:
+      213: -2567962438443949345
+    second: Noisewhitalpha.png_51
+  - first:
+      213: 2396537478139294541
+    second: Noisewhitalpha.png_52
+  - first:
+      213: 9127232479450194808
+    second: Noisewhitalpha.png_53
+  - first:
+      213: 8809445874668325934
+    second: Noisewhitalpha.png_54
+  - first:
+      213: -6648100435981161683
+    second: Noisewhitalpha.png_55
+  - first:
+      213: -6756420398446053187
+    second: Noisewhitalpha.png_56
+  - first:
+      213: 826024150515298821
+    second: Noisewhitalpha.png_57
+  - first:
+      213: 1737684173316585174
+    second: Noisewhitalpha.png_58
+  - first:
+      213: 7165217657857416217
+    second: Noisewhitalpha.png_59
+  - first:
+      213: -1063576006861938220
+    second: Noisewhitalpha.png_60
+  - first:
+      213: -7727630784653639418
+    second: Noisewhitalpha.png_61
+  - first:
+      213: 3656793044808616730
+    second: Noisewhitalpha.png_62
+  - first:
+      213: 4185067428275401915
+    second: Noisewhitalpha.png_63
+  - first:
+      213: 2944613346033054319
+    second: Noisewhitalpha.png_64
+  - first:
+      213: 5107703397599021080
+    second: Noisewhitalpha.png_65
+  - first:
+      213: -6792041003507482345
+    second: Noisewhitalpha.png_66
+  - first:
+      213: 1785613691198515424
+    second: Noisewhitalpha.png_67
+  - first:
+      213: 5926868363426393008
+    second: Noisewhitalpha.png_68
+  - first:
+      213: 5769961131735637829
+    second: Noisewhitalpha.png_69
+  - first:
+      213: -1637657861467245287
+    second: Noisewhitalpha.png_70
+  - first:
+      213: 4263153449109404355
+    second: Noisewhitalpha.png_71
+  - first:
+      213: -1511096492086417318
+    second: Noisewhitalpha.png_72
+  - first:
+      213: -774427084615708307
+    second: Noisewhitalpha.png_73
+  - first:
+      213: -4654193973965404523
+    second: Noisewhitalpha.png_74
+  - first:
+      213: 1277762893914910372
+    second: Noisewhitalpha.png_75
+  - first:
+      213: -1717442785692510481
+    second: Noisewhitalpha.png_76
+  - first:
+      213: 4101392880882182272
+    second: Noisewhitalpha.png_77
+  - first:
+      213: 2430774751782703624
+    second: Noisewhitalpha.png_78
+  - first:
+      213: 2776252599844757465
+    second: Noisewhitalpha.png_79
+  - first:
+      213: 5574410170645823696
+    second: Noisewhitalpha.png_80
+  - first:
+      213: 4486490598080378404
+    second: Noisewhitalpha.png_81
+  - first:
+      213: 6163571824724943274
+    second: Noisewhitalpha.png_82
+  - first:
+      213: 3960822120570048765
+    second: Noisewhitalpha.png_83
+  - first:
+      213: 8390223710263328138
+    second: Noisewhitalpha.png_84
+  - first:
+      213: 3627294270466610821
+    second: Noisewhitalpha.png_85
+  - first:
+      213: 8511345755503691264
+    second: Noisewhitalpha.png_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b5b1a860a45c60800000000000000
+      internalID: 7806040425389995836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 1440
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d0428945a2b0a0800000000000000
+      internalID: -6867244746650101842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1008
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa427b6faf05960800000000000000
+      internalID: 7588841309660818173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_3
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1016
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a711c6af86e760800000000000000
+      internalID: 7486829376916923505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_4
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 994
+        width: 100
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faae76527a3e3130800000000000000
+      internalID: 3548337819166354164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71ead89af04e000800000000000000
+      internalID: 64193515590916031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 980
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a7405a25006930800000000000000
+      internalID: 4134310137219752070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 966
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef874f6453d915890800000000000000
+      internalID: -7471017454681687810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_8
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 962
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e9d057ca7e1d20800000000000000
+      internalID: 3251170977481615526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 959
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f975335eae8be0800000000000000
+      internalID: -1473048355700870039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 955
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073015633abfde290800000000000000
+      internalID: -7859349096282127504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a9702e173920710800000000000000
+      internalID: 1658049730158500460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 952
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe73641caae8080800000000000000
+      internalID: -9183214843078381805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 895
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1692513076e655a0800000000000000
+      internalID: -6532780839916104164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 896
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775a49e24d997210800000000000000
+      internalID: 1331268075572057969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce781448d97b1d40800000000000000
+      internalID: 5556168535053991628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 819
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135c6b5f7edaf440800000000000000
+      internalID: 4970529777332802333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 803
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d681616bfe202ba0800000000000000
+      internalID: -6115836636763683116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 814
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be3e0281b9b6400800000000000000
+      internalID: 318518726593080115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 796
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d94c85dcd22b40800000000000000
+      internalID: 5414132511792551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb88cf23a1d094d0800000000000000
+      internalID: -3129771242210948164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 739
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b77d0af4c358c30800000000000000
+      internalID: 4360958126876752764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 649
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843bef3ad74a0ec0800000000000000
+      internalID: -3599985949428468603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_23
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 543
+        width: 258
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58cb45da05af450800000000000000
+      internalID: 6123295348744816053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d95dd24e04d5a0800000000000000
+      internalID: -6497552682044500034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f37d274c31a53a40800000000000000
+      internalID: 5347357412836602869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 710
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4212879edaa30b0800000000000000
+      internalID: -5748090756130593575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 692
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de608d2c4c0be76c0800000000000000
+      internalID: -4143680248005261587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b99d09e668f150800000000000000
+      internalID: 5906584062437996763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 662
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6c84dde070eb10800000000000000
+      internalID: 2008729600582774218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 680
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86392691ac219440800000000000000
+      internalID: 4940779338722784908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 646
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb126863d79ad3130800000000000000
+      internalID: 3548178436688585147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 630
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043cad33bb3bd44c0800000000000000
+      internalID: -4301584452458724544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 645
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb413b1d2449cbe30800000000000000
+      internalID: 4520651140680062140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 639
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deebd9b2c79a0fa0800000000000000
+      internalID: -5833683504707408172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 647
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149f358bd7e5d510800000000000000
+      internalID: 1573418574855246876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 616
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d351d1827b39e1040800000000000000
+      internalID: 4620292682590000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 606
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c67f72e6f36435d0800000000000000
+      internalID: -3083729932828838205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 532
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047a40bd8e8aeeb0800000000000000
+      internalID: -4689779322753747965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 542
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712697b9478051e00800000000000000
+      internalID: 1014726587959566871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61040e13c52aa87b0800000000000000
+      internalID: -5221182301125197802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 510
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d773e7ff0cbde130800000000000000
+      internalID: 3597738454108305360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 470
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f6ff12e38bbb9d0800000000000000
+      internalID: -2757407769836425326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 484
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0497822b76b957500800000000000000
+      internalID: 393391412137720128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 460
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4862ccc3835376850800000000000000
+      internalID: 6370118713593308804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 435
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270faeb7e66c405d0800000000000000
+      internalID: -3097132465896361870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb577b8e7ebafaf0800000000000000
+      internalID: -361767369334891573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 411
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73da375b7d4d6cdc0800000000000000
+      internalID: -3618971227618300617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e26ca737be6040800000000000000
+      internalID: 4642849715608807255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba3de330d89f520800000000000000
+      internalID: 2736373293682764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a64921b011d23e80800000000000000
+      internalID: -8200262101866297688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 342
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a00494c3cc5cd0800000000000000
+      internalID: -2567962438443949345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4337639326324120800000000000000
+      internalID: 2396537478139294541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 316
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736908f4917aae70800000000000000
+      internalID: 9127232479450194808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cc2ab3950714a70800000000000000
+      internalID: 8809445874668325934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 279
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b293a60e33db3a0800000000000000
+      internalID: -6648100435981161683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87b65d17f5c32a0800000000000000
+      internalID: -6756420398446053187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 227
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502bb53a690a67b00800000000000000
+      internalID: 826024150515298821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 236
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67a5a8c8e7d1810800000000000000
+      internalID: 1737684173316585174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 206
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c92f23f77ff6360800000000000000
+      internalID: 7165217657857416217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1ad5fb14b6d31f0800000000000000
+      internalID: -1063576006861938220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601c85d7eb0f1c490800000000000000
+      internalID: -7727630784653639418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bcfe456e98fb230800000000000000
+      internalID: 3656793044808616730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b96f07a8541a30800000000000000
+      internalID: 4185067428275401915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_64
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62bc2bac3e5dd820800000000000000
+      internalID: 2944613346033054319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_65
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81802f7ad2532e640800000000000000
+      internalID: 5107703397599021080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118c0e61b2ddb1a0800000000000000
+      internalID: -6792041003507482345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e826f90136c7c810800000000000000
+      internalID: 1785613691198515424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_68
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 91
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbe788ef57704250800000000000000
+      internalID: 5926868363426393008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_69
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fd9e82415031050800000000000000
+      internalID: 5769961131735637829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157e970aded549e0800000000000000
+      internalID: -1637657861467245287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_71
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab52d8973c92b30800000000000000
+      internalID: 4263153449109404355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 51
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a9df1fb1870be0800000000000000
+      internalID: -1511096492086417318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611a0d6baea045f0800000000000000
+      internalID: -774427084615708307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_74
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596470a5d3bf86fb0800000000000000
+      internalID: -4654193973965404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae29f605968bb110800000000000000
+      internalID: 1277762893914910372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69db4c2ea6a28e0800000000000000
+      internalID: -1717442785692510481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_77
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0886c4558131be830800000000000000
+      internalID: 4101392880882182272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8021ff802c8dbb120800000000000000
+      internalID: 2430774751782703624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_79
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5084c70b378620800000000000000
+      internalID: 2776252599844757465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04ba504884c5d40800000000000000
+      internalID: 5574410170645823696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_81
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426f5b2bd67334e30800000000000000
+      internalID: 4486490598080378404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_82
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa126582be7698550800000000000000
+      internalID: 6163571824724943274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0561bbbbaa7f630800000000000000
+      internalID: 3960822120570048765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_84
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3e4cd200107470800000000000000
+      internalID: 8390223710263328138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_85
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586d8f6bbecb65230800000000000000
+      internalID: 3627294270466610821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noisewhitalpha.png_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006835d9edf5e1670800000000000000
+      internalID: 8511345755503691264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Noisewhitalpha.png_0: 7806040425389995836
+      Noisewhitalpha.png_1: -6867244746650101842
+      Noisewhitalpha.png_10: -7859349096282127504
+      Noisewhitalpha.png_11: 1658049730158500460
+      Noisewhitalpha.png_12: -9183214843078381805
+      Noisewhitalpha.png_13: -6532780839916104164
+      Noisewhitalpha.png_14: 1331268075572057969
+      Noisewhitalpha.png_15: 5556168535053991628
+      Noisewhitalpha.png_16: 4970529777332802333
+      Noisewhitalpha.png_17: -6115836636763683116
+      Noisewhitalpha.png_18: 318518726593080115
+      Noisewhitalpha.png_19: 5414132511792551374
+      Noisewhitalpha.png_2: 7588841309660818173
+      Noisewhitalpha.png_20: -3129771242210948164
+      Noisewhitalpha.png_21: 4360958126876752764
+      Noisewhitalpha.png_22: -3599985949428468603
+      Noisewhitalpha.png_23: 6123295348744816053
+      Noisewhitalpha.png_24: -6497552682044500034
+      Noisewhitalpha.png_25: 5347357412836602869
+      Noisewhitalpha.png_26: -5748090756130593575
+      Noisewhitalpha.png_27: -4143680248005261587
+      Noisewhitalpha.png_28: 5906584062437996763
+      Noisewhitalpha.png_29: 2008729600582774218
+      Noisewhitalpha.png_3: 7486829376916923505
+      Noisewhitalpha.png_30: 4940779338722784908
+      Noisewhitalpha.png_31: 3548178436688585147
+      Noisewhitalpha.png_32: -4301584452458724544
+      Noisewhitalpha.png_33: 4520651140680062140
+      Noisewhitalpha.png_34: -5833683504707408172
+      Noisewhitalpha.png_35: 1573418574855246876
+      Noisewhitalpha.png_36: 4620292682590000445
+      Noisewhitalpha.png_37: -3083729932828838205
+      Noisewhitalpha.png_38: -4689779322753747965
+      Noisewhitalpha.png_39: 1014726587959566871
+      Noisewhitalpha.png_4: 3548337819166354164
+      Noisewhitalpha.png_40: -5221182301125197802
+      Noisewhitalpha.png_41: 3597738454108305360
+      Noisewhitalpha.png_42: -2757407769836425326
+      Noisewhitalpha.png_43: 393391412137720128
+      Noisewhitalpha.png_44: 6370118713593308804
+      Noisewhitalpha.png_45: -3097132465896361870
+      Noisewhitalpha.png_46: -361767369334891573
+      Noisewhitalpha.png_47: -3618971227618300617
+      Noisewhitalpha.png_48: 4642849715608807255
+      Noisewhitalpha.png_49: 2736373293682764646
+      Noisewhitalpha.png_5: 64193515590916031
+      Noisewhitalpha.png_50: -8200262101866297688
+      Noisewhitalpha.png_51: -2567962438443949345
+      Noisewhitalpha.png_52: 2396537478139294541
+      Noisewhitalpha.png_53: 9127232479450194808
+      Noisewhitalpha.png_54: 8809445874668325934
+      Noisewhitalpha.png_55: -6648100435981161683
+      Noisewhitalpha.png_56: -6756420398446053187
+      Noisewhitalpha.png_57: 826024150515298821
+      Noisewhitalpha.png_58: 1737684173316585174
+      Noisewhitalpha.png_59: 7165217657857416217
+      Noisewhitalpha.png_6: 4134310137219752070
+      Noisewhitalpha.png_60: -1063576006861938220
+      Noisewhitalpha.png_61: -7727630784653639418
+      Noisewhitalpha.png_62: 3656793044808616730
+      Noisewhitalpha.png_63: 4185067428275401915
+      Noisewhitalpha.png_64: 2944613346033054319
+      Noisewhitalpha.png_65: 5107703397599021080
+      Noisewhitalpha.png_66: -6792041003507482345
+      Noisewhitalpha.png_67: 1785613691198515424
+      Noisewhitalpha.png_68: 5926868363426393008
+      Noisewhitalpha.png_69: 5769961131735637829
+      Noisewhitalpha.png_7: -7471017454681687810
+      Noisewhitalpha.png_70: -1637657861467245287
+      Noisewhitalpha.png_71: 4263153449109404355
+      Noisewhitalpha.png_72: -1511096492086417318
+      Noisewhitalpha.png_73: -774427084615708307
+      Noisewhitalpha.png_74: -4654193973965404523
+      Noisewhitalpha.png_75: 1277762893914910372
+      Noisewhitalpha.png_76: -1717442785692510481
+      Noisewhitalpha.png_77: 4101392880882182272
+      Noisewhitalpha.png_78: 2430774751782703624
+      Noisewhitalpha.png_79: 2776252599844757465
+      Noisewhitalpha.png_8: 3251170977481615526
+      Noisewhitalpha.png_80: 5574410170645823696
+      Noisewhitalpha.png_81: 4486490598080378404
+      Noisewhitalpha.png_82: 6163571824724943274
+      Noisewhitalpha.png_83: 3960822120570048765
+      Noisewhitalpha.png_84: 8390223710263328138
+      Noisewhitalpha.png_85: 3627294270466610821
+      Noisewhitalpha.png_86: 8511345755503691264
+      Noisewhitalpha.png_9: -1473048355700870039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
