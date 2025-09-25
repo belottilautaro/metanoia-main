@@ -10,7 +10,7 @@ public class PageCounterUI : MonoBehaviour
 
     void Update()
     {
-        int collected = PuzzleInventory.Instance.GetAllPages().Count;
+        int collected = PuzzleInventory.Instance.GetAllPageIDs().Count;
         if (collected > 0)
             counterText.gameObject.SetActive(true);
         counterText.text =  collected + " / " + totalPages;

@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 9179946627454085952}
   - component: {fileID: 6467563547748378143}
   - component: {fileID: 758385722696616759}
+  - component: {fileID: 1690060229850548149}
   m_Layer: 0
   m_Name: PageRender
   m_TagString: Untagged
@@ -180,9 +181,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb60d2fad476f1640975f6218187aba2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pageID: Page1
+  pageID: Page2
+  uiPrefab: {fileID: 0}
   floatingTextPrefab: {fileID: 1614349209323197354, guid: 1ad0733a13286f14d8b114b98b4a1978, type: 3}
   textAnchor: {fileID: 4035471841805967631}
+--- !u!225 &1690060229850548149
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4079090038913114676}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &8008629931093952552
 GameObject:
   m_ObjectHideFlags: 0

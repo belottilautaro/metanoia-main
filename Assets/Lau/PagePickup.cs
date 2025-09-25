@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class PageInteract : MonoBehaviour
 {
-    public string pageID = "Page1";
+    public string pageID;
+    public GameObject uiPrefab;
     public GameObject floatingTextPrefab;
-    public Transform textAnchor; // ← Asigná el Empty en el Inspector
+    public Transform textAnchor; 
 
     private GameObject spawnedText;
     private bool playerInRange = false;
@@ -13,7 +14,7 @@ public class PageInteract : MonoBehaviour
     {
         if (playerInRange && Input.GetKeyDown(KeyCode.E))
         {
-            PuzzleInventory.Instance.CollectPage(pageID);
+            PuzzleInventory.Instance.CollectPage(pageID, uiPrefab);
 
             if (spawnedText != null)
                 Destroy(spawnedText);

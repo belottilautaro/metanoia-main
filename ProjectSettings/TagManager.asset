@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - InteractRange
+  - Altar
   layers:
   - Default
   - TransparentFX

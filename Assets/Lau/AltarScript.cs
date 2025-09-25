@@ -2,47 +2,52 @@ using UnityEngine;
 
 public class AltarInteraction : MonoBehaviour
 {
-    [SerializeField] GameObject puzzleUI; 
-    [SerializeField] GameObject interactMessage; 
+    [SerializeField] GameObject puzzleUI;
+
     private bool playerInRange = false;
     private bool puzzleActive = false;
+    private PuzzleCanvasManager canvasManager;
 
-
-void Update()
-{
-    if (playerInRange && !puzzleActive)
+    void Update()
     {
-        interactMessage.SetActive(true);
 
-            if (Input.GetKeyDown(KeyCode.E))
-            {
-                puzzleUI.SetActive(true);
-                interactMessage.SetActive(false);
-                Cursor.lockState = CursorLockMode.None;
-                Cursor.visible = true;
-                Time.timeScale = 0f;
-                puzzleActive = true;
+        if (playerInRange && !puzzleActive && Input.GetKeyDown(KeyCode.E))
+        {
+            puzzleUI.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            Time.timeScale = 0f;
+            puzzleActive = true;
+
+            if (canvasManager == null)
+                canvasManager = puzzleUI.GetComponent<PuzzleCanvasManager>();
+
+            canvasManager.RefreshPages(); // Asegura que las páginas se actualicen
         }
     }
-    else
+
+    public void ClosePuzzle()
     {
-        interactMessage.SetActive(false);
+        puzzleUI.SetActive(false);
+        puzzleActive = false;
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+        Time.timeScale = 1f;
     }
-}
-
-
 
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("InteractRange"))
+        {
             playerInRange = true;
-            Debug.Log("Jugador dentro del rango de interacción");
+        }
     }
 
     void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("InteractRange"))
+        {
             playerInRange = false;
-            Debug.Log("Jugador fuera del rango de interacción");
+        }
     }
 }
