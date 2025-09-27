@@ -181,10 +181,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb60d2fad476f1640975f6218187aba2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pageID: Page2
+  pageID: pagina_1
   uiPrefab: {fileID: 0}
   floatingTextPrefab: {fileID: 1614349209323197354, guid: 1ad0733a13286f14d8b114b98b4a1978, type: 3}
   textAnchor: {fileID: 4035471841805967631}
+  pickupSound: {fileID: 8300000, guid: 9ac6e8569a736da4e8954dddc6b0e927, type: 3}
 --- !u!225 &1690060229850548149
 CanvasGroup:
   m_ObjectHideFlags: 0

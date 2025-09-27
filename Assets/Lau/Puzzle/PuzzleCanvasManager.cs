@@ -1,17 +1,20 @@
 using System.Collections.Generic;
+using UnityEditor.Rendering;
 using UnityEngine;
 
 [System.Serializable]
 public class PageEntry
 {
     public string pageID;
-    public GameObject pageObject; // Ya está en el Canvas, desactivado por defecto
+    public GameObject pageObject;
+
 }
 
 public class PuzzleCanvasManager : MonoBehaviour
 {
     [Header("Lista de páginas posibles (ya en el Canvas)")]
     public List<PageEntry> allPages;
+    [SerializeField] GameObject LockedDoor;
     void Start()
     {
         ActivateCollectedPages();
@@ -78,12 +81,13 @@ public class PuzzleCanvasManager : MonoBehaviour
         if (isCorrect)
         {
             Debug.Log("✅ ¡Puzzle resuelto correctamente!");
-
+            Object.FindAnyObjectByType<AltarInteraction>().PlayPuzzleResult(true);
+            Destroy(LockedDoor);
         }
         else
         {
             Debug.Log("🚫 El orden es incorrecto.");
-
+            Object.FindAnyObjectByType<AltarInteraction>().PlayPuzzleResult(false);
         }
     }
 

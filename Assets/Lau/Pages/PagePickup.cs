@@ -5,7 +5,8 @@ public class PageInteract : MonoBehaviour
     public string pageID;
     public GameObject uiPrefab;
     public GameObject floatingTextPrefab;
-    public Transform textAnchor; 
+    public Transform textAnchor;
+    public AudioClip pickupSound;
 
     private GameObject spawnedText;
     private bool playerInRange = false;
@@ -18,6 +19,9 @@ public class PageInteract : MonoBehaviour
 
             if (spawnedText != null)
                 Destroy(spawnedText);
+
+            if (pickupSound != null)
+                AudioSource.PlayClipAtPoint(pickupSound, transform.position);
 
             Destroy(gameObject);
         }
@@ -48,4 +52,3 @@ public class PageInteract : MonoBehaviour
         }
     }
 }
-
